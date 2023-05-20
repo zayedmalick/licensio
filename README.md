@@ -42,6 +42,13 @@ Licensio currently supports the following open source licenses:
 
 Each license module provides a function that accepts the year and the name of the person making the dedication and returns the corresponding license statement.
 
+## Documentation
+
+For detailed documentation, please refer to the [docs](./docs) folder.
+
+The "docs" folder contains individual markdown files for each license module, providing information about the module and usage examples.
+
+
 ## Examples
 For more examples on how to use Licensio, refer to the example code snippets provided in the documentation of each license module.
 
