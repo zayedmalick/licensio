@@ -44,7 +44,7 @@ Each license module provides a function that accepts the year and the name of th
 
 ## Documentation
 
-For detailed documentation, please refer to the [docs](./docs) folder.
+For detailed documentation, please refer to the github repository's [docs](./docs) folder.
 
 The "docs" folder contains individual markdown files for each license module, providing information about the module and usage examples.
 
